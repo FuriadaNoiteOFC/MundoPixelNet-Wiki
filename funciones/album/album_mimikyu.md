@@ -7,14 +7,14 @@ El álbum de Mimikyu llegó en la actualización de Pixelween 2024 y se basa en 
 |Pokemon|Sprite|Info|
 |:-----:|:----:|:--:|
 | Gengar |![Gengar](../../images/funciones/album/mimikyu/mimigengar_sp.png)| Suele aparecer en el [Nether](https://pixelmonmod.com/wiki/Nether). |
-| Umbreon |![Umbreon](../../images/funciones/album/mimikyu/mimiumbreon_sp.png)| Suele aparecer bajo tierra (capa máxima: 60). |
-| Sneasel |![Sneasel](../../images/funciones/album/mimikyu/mimisneasel_sp.png)| Suele aparecer en biomas [Evil](https://pixelmonmod.com/wiki/Evil) (como Dead Forest) durante la noche. |
-| Sableye |![Sableye](../../images/funciones/album/mimikyu/mimisableye_sp.png)| Suele aparecer en biomas [Roofed](https://pixelmonmod.com/wiki/Roofed_Forest) durante la noche. |
-| Poochyena |![Poochyena](../../images/funciones/album/mimikyu/mimipoochyena_sp.png)| Suele aparecer en el [Nether](https://pixelmonmod.com/wiki/Nether). |
-| Mismapeon |![Mismapeon](../../images/funciones/album/mimikyu/mimismapeon_sp.png)| Suele aparecer en biomas de [flores](https://pixelmonmod.com/wiki/Flower_Forest) durante la mañana. |
-| Eevee |![Eevee](../../images/funciones/album/mimikyu/mimieevee_sp.png)| Suele aparecer en biomas de [Savanna](https://pixelmonmod.com/wiki/Savanna) durante el día. |
-| Wooper |![Wooper](../../images/funciones/album/mimikyu/mimiwooper_sp.png)| Suele aparecer en [bosques congelados](https://pixelmonmod.com/wiki/Freezing_Forests) durante la noche. |
-| Marshadow |![Marshadow](../../images/funciones/album/mimikyu/mimimarshadow_sp.png)| Suele aparecer en [pantanos](https://pixelmonmod.com/wiki/Swampland) durante la noche. |
+| Sableye |![Sableye](../../images/funciones/album/mimikyu/mimisableye_sp.png)| Suele aparecer bajo tierra (capa máxima: 60). |
+| Mismapeon |![Mismapeon](../../images/funciones/album/mimikyu/mimismapeon_sp.png)| Suele aparecer en biomas [Evil](https://pixelmonmod.com/wiki/Evil) (como Dead Forest) durante la noche. |
+| Umbreon |![Umbreon](../../images/funciones/album/mimikyu/mimiumbreon_sp.png)| Suele aparecer en biomas [Roofed](https://pixelmonmod.com/wiki/Roofed_Forest) durante la noche. |
+| Marshadow |![Marshadow](../../images/funciones/album/mimikyu/mimimarshadow_sp.png)| Suele aparecer en el [Nether](https://pixelmonmod.com/wiki/Nether). |
+| Eevee |![Eevee](../../images/funciones/album/mimikyu/mimieevee_sp.png)| Suele aparecer en biomas de [flores](https://pixelmonmod.com/wiki/Flower_Forest) durante la mañana. |
+| Poochyena |![Poochyena](../../images/funciones/album/mimikyu/mimipoochyena_sp.png)| Suele aparecer en biomas de [Savanna](https://pixelmonmod.com/wiki/Savanna) durante el día. |
+| Sneasel |![Sneasel](../../images/funciones/album/mimikyu/mimisneasel_sp.png)| Suele aparecer en [bosques congelados](https://pixelmonmod.com/wiki/Freezing_Forests) durante la noche. |
+| Wooper |![Wooper](../../images/funciones/album/mimikyu/mimiwooper_sp.png)| Suele aparecer en [pantanos](https://pixelmonmod.com/wiki/Swampland) durante la noche. |
 | Mew |![Mew](../../images/funciones/album/mimikyu/mimimew_sp.png)| Suele aparecer en la [Jungla](https://pixelmonmod.com/wiki/jungle) durante la noche. |
 | Unveilia |![Unveilia](../../images/funciones/album/mimikyu/mimiunveilia-sp.png)| Se obtiene en la misión "Visita a la Isla Misteriosa". |
 
