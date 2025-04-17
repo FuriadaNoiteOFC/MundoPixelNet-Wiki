@@ -38,15 +38,15 @@ En la última semana de la temporada Mística se llevó a cabo un evento en vivo
 
 | Skins |
 | :---: |
-| [🌸 Victini Blossom]() ![Sprite de Silvally Grifo](../../images/pokemon/temporada-1/Victini-sprite.png) |
-| [💥 Hoopa Caótico]() ![Sprite de Silvally Grifo](../../images/pokemon/temporada-1/Hoopa-sprite.png) |
-| [💥 Gardevoir Caótica]() ![Sprite de Silvally Grifo](../../images/pokemon/temporada-1/Gardevoir-sprite.png) |
-| [💥 Melmetal Caótico]() ![Sprite de Silvally Grifo](../../images/pokemon/temporada-1/Melmetal-sprite.png) |
-| [💥 Linea de Gengar Caótico]() ![Sprite de Silvally Grifo](../../images/pokemon/temporada-1/Gengar-sprite.png) |
-| [💥 Linea de Dusknoir Caótico]() ![Sprite de Silvally Grifo](../../images/pokemon/temporada-1/Dusknoir-sprite.png) |
-| [💥 Aerodactyl Caótico]() ![Sprite de Silvally Grifo](../../images/pokemon/temporada-1/Aerodactyl-sprite.png) |
-| [💥 Rhyperior Caótico]() ![Sprite de Silvally Grifo](../../images/pokemon/temporada-1/Rhyperior-sprite.png) |
-| [💥 Weavile Caótico]() ![Sprite de Silvally Grifo](../../images/pokemon/temporada-1/Weavile-sprite.png) |
+| [🌸 Victini Blossom]() ![Sprite de Victini Blossom]](../../images/pokemon/temporada-1/Victini-sprite.png) |
+| [💥 Hoopa Caótico]() ![Sprite de Hoopa Caótico](../../images/pokemon/temporada-1/Hoopa-sprite.png) |
+| [💥 Gardevoir Caótica]() ![Sprite de Gardevoir Caótica](../../images/pokemon/temporada-1/Gardevoir-sprite.png) |
+| [💥 Melmetal Caótico]() ![Sprite de Melmetal Caótico](../../images/pokemon/temporada-1/Melmetal-sprite.png) |
+| [💥 Linea de Gengar Caótico]() ![Sprite de Gengar Caótico](../../images/pokemon/temporada-1/Gengar-sprite.png) |
+| [💥 Linea de Dusknoir Caótico]() ![Sprite de Dusknoir Caótico](../../images/pokemon/temporada-1/Dusknoir-sprite.png) |
+| [💥 Aerodactyl Caótico]() ![Sprite de Aerodactyl Caótico](../../images/pokemon/temporada-1/Aerodactyl-sprite.png) |
+| [💥 Rhyperior Caótico]() ![Sprite de Rhyperior Caótico](../../images/pokemon/temporada-1/Rhyperior-sprite.png) |
+| [💥 Weavile Caótico]() ![Sprite de Weavile Caótico](../../images/pokemon/temporada-1/Weavile-sprite.png) |
 
 | pokébola |
 | :---: |
