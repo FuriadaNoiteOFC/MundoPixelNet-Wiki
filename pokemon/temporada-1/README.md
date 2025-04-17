@@ -31,6 +31,23 @@ Esta Temporada introduce los [**Pokémon Híbridos**](../../funciones/hibridos.m
 | 🗝️ Gatcha |
 | :---: |
 | [🗝️ Meowth y Persian Espectro Dorado](gatcha-meowth-persian-espectro-dorado.md) ![Sprite de Meowth Espectro Dorado](../../images/pokemon/temporada-1/espectrodorado1-sprite.png) ![Sprite de Persian Espectro Dorado](../../images/pokemon/temporada-1/espectrodorado2-sprite.png)|
-| [🗝️ Magikarp y Gyarados Leviathan](gatcha-magikarp-gyarados-leviathan.md) ![Sprite de Magikarp Leviathan](../../images/pokemon/temporada-1/leviathan1-sprite.png) ![Sprite de Gyarados Leviathan](../../images/pokemon/temporada-1/leviathan2-sprite.png)|
-| [🗝️ Kingambit Titan](gatcha-kingambit-titan.md) ![Sprite de Kingambit Titan](../../images/pokemon/temporada-1/titan-sprite.png)|
-| [🗝️ Nihilego Luminarie](gatcha-nihilego-luminarie.md) ![Sprite de Nihilego Luminarie](../../images/pokemon/temporada-1/luminarie-sprite.png)|
+
+### 📽️ Evento en vivo
+
+En la última semana de la temporada Mística se llevó a cabo un evento en vivo denominado [Colapso Final](), en el cual se presentaron algunas skins inéditas, así como una nueva Pokébola exclusiva.
+
+| Skins |
+| :---: |
+| [🌸 Victini Blossom]() ![Sprite de Silvally Grifo](../../images/pokemon/temporada-1/Victini-sprite.png) |
+| [💥 Hoopa Caótico]() ![Sprite de Silvally Grifo](../../images/pokemon/temporada-1/Hoopa-sprite.png) |
+| [💥 Gardevoir Caótica]() ![Sprite de Silvally Grifo](../../images/pokemon/temporada-1/Gardevoir-sprite.png) |
+| [💥 Melmetal Caótico]() ![Sprite de Silvally Grifo](../../images/pokemon/temporada-1/Melmetal-sprite.png) |
+| [💥 Linea de Gengar Caótico]() ![Sprite de Silvally Grifo](../../images/pokemon/temporada-1/Gengar-sprite.png) |
+| [💥 Linea de Dusknoir Caótico]() ![Sprite de Silvally Grifo](../../images/pokemon/temporada-1/Dusknoir-sprite.png) |
+| [💥 Aerodactyl Caótico]() ![Sprite de Silvally Grifo](../../images/pokemon/temporada-1/Aerodactyl-sprite.png) |
+| [💥 Rhyperior Caótico]() ![Sprite de Silvally Grifo](../../images/pokemon/temporada-1/Rhyperior-sprite.png) |
+| [💥 Weavile Caótico]() ![Sprite de Silvally Grifo](../../images/pokemon/temporada-1/Weavile-sprite.png) |
+
+| pokébola |
+| :---: |
+| [💥 Caos Ball]() ![Sprite de Caos Ball](../../images/pokemon/temporada-1/caosball-sprite.png) |
