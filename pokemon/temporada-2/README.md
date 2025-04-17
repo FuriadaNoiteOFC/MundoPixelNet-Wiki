@@ -20,8 +20,9 @@ Esta Temporada introduce las [**Evoluciones de Herramientas**](../../funciones/e
   | 🥈 Gratis | 🥇 Premium |
   | :----: | :----: |
   | [🥈 Sharpedo Espectral](pase-sharpedo-espectral.md) ![Sprite de Sharpedo Espectral](../../images/pokemon/temporada-2/sharpedoespectral-sprite.png) | [🥇 Tsareena Estacional](pase-tsareena-estacional.md) ![Sprite de Tsareena Estacional](../../images/pokemon/temporada-1/Estacional1-sprite.png) |
-  | [🥈 Braviary Fénix](pase-braviary-fenix.md) ![Sprite de Braviary Fénix](../../images/pokemon/temporada-1/Fenix-sprite.png) | [🥇 Vulpix y Ninetales Fuerza Lunar](pase-vulpix-ninetales-espiritu-lunar.md) ![Sprite de Vulpix Espiritu Lunar](../../images/pokemon/temporada-1/EspirituLunar1-sprite.png) ![Sprite de Ninetales Espiritu Lunar](../../images/pokemon/temporada-1/EspirituLunar2-sprite.png) |
-  ||[🥇 Meloetta Faerie](pase-meloetta-faerie.md) ![Sprite de Meloetta Faerie](../../images/pokemon/temporada-1/Faerie1-sprite.png)|
+  | [🥈 Honchkrow Barba Negra](pase-honchkrow-barba-negra.md) ![Sprite de Honchkrow Barba Negra](../../images/pokemon/temporada-2/barbanegra-sprite.png) | [🥇 Vulpix y Ninetales Fuerza Lunar](pase-vulpix-ninetales-espiritu-lunar.md) ![Sprite de Vulpix Espiritu Lunar](../../images/pokemon/temporada-1/EspirituLunar1-sprite.png) ![Sprite de Ninetales Espiritu Lunar](../../images/pokemon/temporada-1/EspirituLunar2-sprite.png) |
+  | [🥈 Uxie Guardián del Tesoro](pase-uxie-guardian-del-tesoro.md) ![Sprite de Guardián del Tesoro](../../images/pokemon/temporada-2/guardiandeltesoro-sprite.png) |[🥇 Meloetta Faerie](pase-meloetta-faerie.md) ![Sprite de Meloetta Faerie](../../images/pokemon/temporada-1/Faerie1-sprite.png)|
+  |||
 
 ### 🗝️ Skins del Gatcha
 
