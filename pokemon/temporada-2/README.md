@@ -1,4 +1,4 @@
-# 🪄 Temporada 1
+# ⚓ Temporada 2
 
 La Temporada Horizontes _(Temporada 2)_ de Mundo PixelNet trae una temática de piratas, busqueda al tesoro y exploración.
 
@@ -33,4 +33,6 @@ Esta Temporada introduce las [**Evoluciones de Herramientas**](../../funciones/e
 
 ### 🛠️ Evolución de Herramientas
 
+| ⚙️ Evoluciones |
+| :----: |
 | [⛏️ Herramientas y Armadura Evo-Caos](evolucion-evo-caos.md) |
