@@ -2,7 +2,7 @@
 
 La Temporada Mística _(Temporada 1)_ de Mundo PixelNet trae una temática de magia, relatos míticos, fantasía.
 
-![Temporada Mística](../../images/pokemon/temporada-1/PaseMistico.png)
+![Temporada Mística](../../images/pokemon/temporada-1/Pase.png)
 
 ### 📺 Tráiler de la temporada mística
 
