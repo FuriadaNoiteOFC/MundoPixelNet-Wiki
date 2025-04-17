@@ -10,7 +10,7 @@
 
 
 ### Comentario del desarrollador
-La creación de esta skin está inspirada en One Piece, en especial en el sombrero de paja de Luffy..
+La creación de esta skin está inspirada en One Piece, en especial en el sombrero de paja de Luffy.
 
 ![Formas de Pikachu Mugiwara](../../images/pokemon/temporada-2/mugiwara-formas.png)
 
