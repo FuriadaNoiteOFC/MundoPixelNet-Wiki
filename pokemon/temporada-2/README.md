@@ -19,8 +19,8 @@ Esta Temporada introduce las [**Evoluciones de Herramientas**](../../funciones/e
 
   | 🥈 Gratis | 🥇 Premium |
   | :----: | :----: |
-  | [🥈 Sharpedo Espectral](pase-sharpedo-espectral.md) ![Sprite de Sharpedo Espectral](../../images/pokemon/temporada-2/sharpedoespectral-sprite.png) | [🥇 Tsareena Estacional](pase-tsareena-estacional.md) ![Sprite de Tsareena Estacional](../../images/pokemon/temporada-1/Estacional1-sprite.png) |
-  | [🥈 Honchkrow Barba Negra](pase-honchkrow-barba-negra.md) ![Sprite de Honchkrow Barba Negra](../../images/pokemon/temporada-2/barbanegra-sprite.png) | [🥇 Vulpix y Ninetales Fuerza Lunar](pase-vulpix-ninetales-espiritu-lunar.md) ![Sprite de Vulpix Espiritu Lunar](../../images/pokemon/temporada-1/EspirituLunar1-sprite.png) ![Sprite de Ninetales Espiritu Lunar](../../images/pokemon/temporada-1/EspirituLunar2-sprite.png) |
+  | [🥈 Sharpedo Espectral](pase-sharpedo-espectral.md) ![Sprite de Sharpedo Espectral](../../images/pokemon/temporada-2/espectral1-sprite.png) | [🥇 Zoroark Corsario](pase-zoroark-corsario.md) ![Sprite de Zoroark Corsario](../../images/pokemon/temporada-2/corsario1-sprite.png) |
+  | [🥈 Honchkrow Barba Negra](pase-honchkrow-barba-negra.md) ![Sprite de Honchkrow Barba Negra](../../images/pokemon/temporada-2/barbanegra-sprite.png) | [🥇 Perrserker Capitán](pase-perrserker-capitan.md) ![Sprite de Perrserker Capitán](../../images/pokemon/temporada-2/capitan-sprite.png) |
   | [🥈 Uxie Guardián del Tesoro](pase-uxie-guardian-del-tesoro.md) ![Sprite de Guardián del Tesoro](../../images/pokemon/temporada-2/guardiandeltesoro-sprite.png) |[🥇 Dusknoir Holandés Errante](pase-dusknoir-holandes-errante.md) ![Sprite de Dusknoir Holandés Errante](../../images/pokemon/temporada-1/holandeserrante-sprite.png)|
   || [🥇 Kyogre Rey de los Mares](pase-kyogre-rey-de-los-mares.md) ![Sprite de Kyogre Rey de los Mares](../../images/pokemon/temporada-2/reydelosmares-sprite.png) |
 
