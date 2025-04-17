@@ -33,6 +33,9 @@ Esta Temporada introduce los [**Pokémon Híbridos**](../../funciones/hibridos.m
 | 🗝️ Gatcha |
 | :---: |
 | [🗝️ Meowth y Persian Espectro Dorado](gatcha-meowth-persian-espectro-dorado.md) ![Sprite de Meowth Espectro Dorado](../../images/pokemon/temporada-1/espectrodorado1-sprite.png) ![Sprite de Persian Espectro Dorado](../../images/pokemon/temporada-1/espectrodorado2-sprite.png)|
+| [🗝️ Magikarp y Gyarados Leviathan](gatcha-magikarp-gyarados-leviathan.md) ![Sprite de Magikarp Leviathan](../../images/pokemon/temporada-1/leviathan1-sprite.png) ![Sprite de Gyarados Leviathan](../../images/pokemon/temporada-1/leviathan2-sprite.png)|
+| [🗝️ Kingambit Titan](gatcha-kingambit-titan.md) ![Sprite de Kingambit Titan](../../images/pokemon/temporada-1/titan-sprite.png)|
+| [🗝️ Nihilego Luminarie](gatcha-nihilego-luminarie.md) ![Sprite de Nihilego Luminarie](../../images/pokemon/temporada-1/luminarie-sprite.png)|
 
 ### 📽️ Evento en vivo
 
