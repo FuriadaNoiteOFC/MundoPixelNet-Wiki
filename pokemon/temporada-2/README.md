@@ -2,6 +2,8 @@
 
 La Temporada Horizontes _(Temporada 2)_ de Mundo PixelNet trae una temática de piratas, busqueda al tesoro y exploración.
 
+![Temporada Horizontes](../../images/pokemon/temporada-2/Pase.png)
+
 ### 📺 Tráiler de la temporada Horizontes
 
 {% embed url="PLACEHOLDER" %}
