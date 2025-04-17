@@ -30,4 +30,7 @@ Esta Temporada introduce las [**Evoluciones de Herramientas**](../../funciones/e
 | :---: |
 | [🗝️ Pikachu Mugiwara](gatcha-pikachu-mugiwara.md) ![Sprite de Pikachu Mugiwara](../../images/pokemon/temporada-2/mugiwara-sprite.png)|
 | [🗝️ Polteageist Licor](gatcha-polteageist-licor.md) ![Sprite de Polteageist Licor](../../images/pokemon/temporada-2/licor2-sprite.png)|
-| [🗝️ Kartana Corte del Naufragio](gatcha-kartana-corte-del-naufragio.md) ![Sprite de Kartana Corte del Naufragio](../../images/pokemon/temporada-2/cortedelnaufragio-sprite.png)|
+
+### 🛠️ Evolución de Herramientas
+
+| [⛏️ Herramientas y Armadura Evo-Caos](evolucion-evo-caos.md) |
