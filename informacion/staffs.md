@@ -45,3 +45,6 @@ El rango Builder tiene la función de construir los mapas del servidor, ya sea p
 | ![Skin de BonMurci](../images/Rangos/Mod/BonMurci.png)|**BonMurci**|
 | ![Skin de JuniorCX](../images/Rangos/Mod/JuniorCX.png)|**JuniorCX**|
 | ![Skin de Trolendo](../images/Rangos/Helper/Steve.png)|**Trolendo**|
+| ![Skin de Gametito](../images/Rangos/Mod/Gametito.png)|**Gametito**|
+| ![Skin de ITSFrankoGG](../images/Rangos/Helper/ITSFrankoGG.png)|**ITSFrankoGG**|
+| ![Skin de AlowGamer05](../images/Rangos/Helper/AlowGamer05.png)|**AlowGamer05**|
