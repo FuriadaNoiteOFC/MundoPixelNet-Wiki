@@ -93,3 +93,5 @@ Estos son los híbridos disponibles actualmente:
 | [Lycario](../pokemon/temporada-1/hibrido-lycario.md) | ![Sprite de Lycario](../images/pokemon/temporada-1/Lycario-sprite.png) |
 | [Mismapeon](../pokemon/temporada-1/hibrido-mismapeon.md) | ![Sprite de Mismapeon](../images/pokemon/temporada-1/Mismapeon-sprite.png) |
 | [Zoropunny](../pokemon/temporada-1/hibrido-zoropunny.md) | ![Sprite de Zoropunny](../images/pokemon/temporada-1/Zoropunny-sprite.png) |
+| [Exphlosion](../pokemon/temporada-2/hibrido-exphlosion.md) | ![Sprite de Exphlosion](../images/pokemon/temporada-2/exphlosion-sprite.png) |
+| [Swampsaur](../pokemon/temporada-2/hibrido-swampsaur.md) | ![Sprite de Swampsaur](../images/pokemon/temporada-2/swampsaur-sprite.png) |
